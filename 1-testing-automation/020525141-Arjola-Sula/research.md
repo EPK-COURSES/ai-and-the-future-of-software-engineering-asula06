@@ -39,3 +39,27 @@ AI can also help software developers identify software issues more efficiently a
 Artificial intelligence can help developers quickly analyze large amounts of software. AI-assisted debugging allows the software development team to improve efficiency and save time when identifying software faults. Moreover, AI-based tools support faster software maintenance. This is especially useful in large software systems where manual debugging may become difficult and time-consuming. 
 
 Nevertheless, the generated suggestions from AI are not always accurate. Thus, human intervention is required for the AI debugging tool to ensure software security. Developers must verify AI-generated debugging results carefully to maintain software quality, reliability, and security.
+
+## AI in CI/CD Automation
+
+Artificial Intelligence is becoming more important in CI/CD (Continuous Integration and Continuous Delivery) automation in modern software engineering. CI/CD allows software teams to test, integrate, and deploy code changes more quickly and efficiently. Today, many companies use AI-powered tools to improve these processes and reduce manual work during software development and deployment.
+
+AI can help automate different stages of the CI/CD pipeline, including software testing, monitoring, and deployment. AI systems are able to analyze software data continuously and identify possible issues before software is released. This helps development teams reduce software failures and improve software reliability.
+
+Another important advantage of AI in CI/CD automation is increased productivity. AI-assisted automation tools reduce repetitive tasks and help developers focus more on coding, maintenance, and software improvement. AI tools may also help speed up software releases by supporting faster testing and deployment processes.
+
+AI is also useful in DevOps environments because it can improve deployment workflows and reduce human errors. In large software projects where updates happen frequently, AI-assisted automation helps development teams manage software delivery more efficiently and maintain software quality.
+
+However, AI-powered automation systems are not perfect. AI tools may sometimes make incorrect decisions or fail to detect certain software problems. Because of this, human supervision is still necessary to review deployment processes, maintain software security, and ensure system reliability.
+
+## Risks and Limitations of AI Automation
+
+Although Artificial Intelligence offers many advantages in software engineering, AI-powered automation systems still have several risks and limitations. One major concern is that AI tools are not always fully accurate. Sometimes AI systems may generate incorrect results, miss important software issues, or produce unreliable suggestions during testing and deployment processes.
+
+Another important risk is overdependence on AI tools. If developers rely too heavily on AI-generated outputs without proper verification, software quality and security may be affected. Developers may also become less involved in understanding the software deeply, which can reduce problem-solving and debugging skills over time.
+
+AI automation systems may also create security concerns. Incorrect AI-generated code suggestions or deployment decisions could introduce vulnerabilities into software systems. In large software projects, even small mistakes may lead to serious system failures or security problems.
+
+False positives and incorrect predictions are also common limitations of AI systems. AI tools may sometimes identify problems that do not actually exist or fail to detect more complex software defects. Because of this, human supervision remains extremely important during testing, debugging, and deployment activities.
+
+Despite the growth of AI automation in software engineering, human expertise is still necessary. Developers must review AI-generated results carefully, verify software reliability, and ensure that software systems remain secure, stable, and functional.
