@@ -32,7 +32,7 @@ Despite these advantages, the article also identifies several challenges. AI sys
 
 In conclusion, the article argues that AI and ML are reshaping the future of software test automation. Intelligent testing systems provide faster execution, improved defect detection, better adaptability, and more efficient software delivery processes. Although challenges remain, AI-driven testing is expected to become an increasingly important part of software engineering, helping organizations achieve higher software quality while supporting the rapid development practices used in modern Agile and DevOps environments.
 
-### [3] Automating and Optimizing Software Testing using Artificial Intelligence Techniques (2021)
+### [3] Automating and Optimizing Software Testing using Artificial Intelligence Techniques 
 
 This article examines how Artificial Intelligence (AI) can improve software testing by increasing automation, reducing manual effort, and enhancing software quality. The author argues that as software systems become more complex and organizations are required to release products faster, traditional manual testing methods are no longer sufficient. AI-based testing provides a more efficient and reliable approach by automating repetitive tasks, generating test cases, detecting defects, and supporting quality assurance activities throughout the software development lifecycle.
 
@@ -46,7 +46,7 @@ Another important aspect of the study is its overview of AI-powered testing tool
 
 The article concludes that AI has become a key technology in modern software testing because it increases test coverage, reduces testing time, minimizes human errors, and improves software quality. AI-driven testing enables continuous testing, automated maintenance, defect prediction, and intelligent decision-making throughout the testing process. Although further research is needed to evaluate advanced AI testing tools and white-box testing automation, the study demonstrates that AI-assisted testing represents a significant advancement in software engineering and will continue to play a critical role in future software development practices.
 
-### [4] The Power of AI-Driven Reporting in Test Automation (2018)
+### [4] The Power of AI-Driven Reporting in Test Automation 
 
 This article focuses on how Artificial Intelligence (AI) improves the reporting process in test automation. Traditional test reports often provide only basic pass/fail results, making it difficult for teams to understand the root causes of defects or make informed decisions. The author argues that AI-powered reporting transforms raw testing data into meaningful insights, helping organizations improve software quality and testing efficiency.
 
@@ -56,7 +56,7 @@ Another important contribution of the article is the discussion of AI-enhanced r
 
 The article concludes that AI-driven reporting is becoming an essential component of modern test automation. By providing actionable insights, reducing reporting effort, and improving decision-making, AI helps organizations deliver more reliable software and achieve higher levels of quality assurance.
 
-### [5] Leveraging Artificial Intelligence for Automated Testing and Quality Assurance in Software Development Lifecycles (2024)
+### [5] Leveraging Artificial Intelligence for Automated Testing and Quality Assurance in Software Development Lifecycles 
 
 This article discusses how Artificial Intelligence (AI) is transforming software testing and quality assurance (QA) by making testing processes faster, more accurate, and more scalable. The authors explain that traditional testing methods, including manual testing and scripted automation, struggle to keep up with modern software systems because they are time-consuming, expensive, and often unable to adapt to frequent software updates. AI provides a solution by introducing intelligent automation and data-driven decision-making into testing activities.
 
@@ -67,3 +67,14 @@ A major finding of the article is that AI significantly improves test automation
 The authors present several real-world case studies demonstrating the effectiveness of AI in software testing. Organizations that adopted AI-powered testing tools reported shorter testing cycles, higher defect detection accuracy, lower maintenance costs, and improved software quality. In some cases, AI reduced testing time by up to 30–50% while significantly improving software reliability and user satisfaction.
 
 The article concludes that AI is changing software quality assurance from a reactive process into a proactive and intelligent one. Although challenges such as training data quality, integration difficulties, and workforce upskilling remain, the benefits of AI-driven testing clearly outweigh the limitations. The authors argue that future software development will increasingly rely on AI-powered testing frameworks to ensure high-quality, secure, and reliable software systems.
+
+### AI-Generated Test Automation for Autonomous Software Verification: Enhancing Quality Assurance Through AI-Driven Testing
+
+This article explores how Artificial Intelligence (AI) can automate software testing and improve quality assurance. The proposed framework combines Machine Learning (ML), Natural Language Processing (NLP), and Reinforcement Learning (RL) to automatically generate test cases, detect defects, optimize test execution, and adapt to software changes with minimal human intervention. The authors argue that AI-driven testing is more efficient than traditional testing because it reduces manual effort, increases test coverage, and improves software reliability.
+
+The study shows that AI can create self-healing test scripts, predict defects, and continuously learn from previous testing data. By analyzing software requirements and application behavior, AI systems can automatically update test cases and identify potential issues before software deployment. This makes AI especially useful in Agile and DevOps environments where rapid development and continuous testing are required.
+
+The results demonstrate that the combined AI model achieved 94.8% test coverage, 91.2% defect detection, and 96.7% accuracy while reducing execution time and resource usage. The authors found that integrating ML, NLP, and RL produced better outcomes than using any single AI technique alone. The full AI model further improved performance, reaching 98.2% test coverage and 99.4% accuracy.
+
+The article concludes that AI-generated test automation significantly improves software verification by making testing faster, more scalable, and more accurate. It highlights the potential of AI to transform quality assurance through intelligent automation, adaptive learning, and automated defect detection, helping organizations deliver more reliable software products.
+
