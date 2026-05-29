@@ -97,3 +97,15 @@ The study highlights that AI can analyze historical testing data to identify pat
 Several AI-powered testing tools are presented, including Eggplant AI, Test.ai, Selenium, Appvance, Applitools Eyes, Katalon Studio, and Tricentis Tosca. Case studies showed significant improvements, such as a 40% reduction in testing time, a 30% decrease in post-launch defects, and improved test coverage and software quality. These results demonstrate the practical benefits of integrating AI and ML into modern testing environments.
 
 The article concludes that AI and ML are becoming essential technologies in software testing because they increase efficiency, reduce costs, and enhance defect detection. However, challenges such as data quality, algorithm complexity, transparency, and ethical considerations must be addressed to fully realize the potential of AI-driven testing.
+
+### [9] AI-Powered Software Development Life Cycle: From Requirements to Maintenance
+
+This article examines how Artificial Intelligence (AI) can be integrated throughout the entire Software Development Life Cycle (SDLC), from requirements analysis to software maintenance. The author argues that AI is transforming software engineering by improving productivity, software quality, and development efficiency while supporting human developers rather than replacing them.
+
+One of the key contributions of the article is its discussion of AI-powered testing and debugging. AI can automatically generate unit, integration, and end-to-end test cases, identify edge cases, and improve test coverage. The study also explains how AI analyzes historical bug reports, software logs, and code patterns to detect defects early and predict potential failures before deployment. This helps development teams reduce software errors and improve reliability.
+
+The article further highlights the role of AI in CI/CD automation and deployment. AI can optimize deployment pipelines, predict build failures, automate infrastructure configuration, and ensure consistency across development, testing, and production environments. These capabilities improve the speed and reliability of software delivery while reducing manual effort.
+
+Another important aspect of the research is software maintenance. The author explains that AI supports proactive maintenance by analyzing system logs, detecting anomalies, identifying security vulnerabilities, and recommending code refactoring strategies. AI can also assist in modernizing legacy systems and improving long-term software performance.
+
+The article concludes that AI has the potential to transform every phase of software development through intelligent automation, predictive analytics, automated testing, bug detection, and deployment optimization. However, the author emphasizes that human oversight remains essential to validate AI-generated outputs, ensure software security, and maintain high-quality development standards.
