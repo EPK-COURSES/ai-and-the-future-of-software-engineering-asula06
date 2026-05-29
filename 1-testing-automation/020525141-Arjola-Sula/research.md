@@ -109,3 +109,13 @@ The article further highlights the role of AI in CI/CD automation and deployment
 Another important aspect of the research is software maintenance. The author explains that AI supports proactive maintenance by analyzing system logs, detecting anomalies, identifying security vulnerabilities, and recommending code refactoring strategies. AI can also assist in modernizing legacy systems and improving long-term software performance.
 
 The article concludes that AI has the potential to transform every phase of software development through intelligent automation, predictive analytics, automated testing, bug detection, and deployment optimization. However, the author emphasizes that human oversight remains essential to validate AI-generated outputs, ensure software security, and maintain high-quality development standards.
+
+### [10] Can AI Help to Improve Debugging Substantially? Debugging Experiences with Value-Based Models
+
+This article investigates whether Artificial Intelligence techniques can significantly improve software debugging. The authors present a model-based debugging approach for Java programs that uses AI-based diagnosis methods to locate software faults more accurately than traditional debugging techniques. Instead of relying only on manual code inspection, the proposed system analyzes program behavior, test cases, and variable values to identify the most likely sources of errors.
+
+The study introduces two debugging models: the Value-Based Model (VBM) and the Loop-Free Model (LFM). These models represent program behavior and allow the system to reason about faulty code automatically. The Loop-Free Model was found to be particularly effective because it improves the analysis of loops and enables more precise fault localization. Experimental results showed that the AI-based approach reduced the amount of code developers needed to inspect and provided better accuracy than classical debugging methods and dependency-based techniques.
+
+The authors also highlight that AI-assisted debugging can support developers by identifying possible fault locations, ranking diagnoses, and suggesting potential corrections. This reduces debugging time and helps developers focus on the most likely causes of software failures. However, the approach still requires human validation and faces challenges related to computational complexity and scalability for large software systems.
+
+The article concludes that model-based AI debugging is a promising technique for improving software maintenance and bug detection. By combining intelligent diagnosis with human expertise, AI can substantially enhance debugging efficiency and accuracy, making it an important component of modern software engineering.
