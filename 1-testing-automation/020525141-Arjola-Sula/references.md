@@ -13,3 +13,5 @@
 [7] Khankhoje, R. (2024). AI in test automation: Overcoming challenges, embracing imperatives. International Journal on Soft Computing, Artificial Intelligence and Applications, 13(1), 1-10. https://d1wqtxts1xzle7.cloudfront.net/119362243/ijscai.2024-libre.pdf?1730761615=&response-content-disposition=inline%3B+filename%3DAI_in_Test_Automation_Overcoming_Challen.pdf&Expires=1780094975&Signature=hIplEZ26rZh1BYiCyCIeHAzmkZ-8jToUwO9O9VGlPDmZOQHbtBLC5X7ha5-0ZsNVgZ4~Hixilvrl9ys48XeXxTmj1NAxQlGVB0ZwyZsGKFdht20qOLNpf46jp-kjDAtmO-KHVZqslnS5C5mKNd13W1vU7TbJK7Uda3n99alS3iXclZK7tPzyP8xcva969-IRlcOQZSroTzVAjrxVW7XnWfDW1FZIYtPFbERm1HtjRH6QYMMftjrXG8ii7TGMKSZkBNkLsCJDdqOYOdKASbOBt9pDhmmYhMRlbNd2WYjptBhrstvHfLv8wNC4ZcRh~s7GNEg3PR25f~OoBcTR1byjBQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 [8] Ramadan, A., Yasin, H., & Pektas, B. (2024). The role of artificial intelligence and machine learning in software testing. arXiv preprint arXiv:2409.02693. 
+
+[9] Burte, S. (2025). AI-Powered Software Development Life Cycle: From Requirements to Maintenance. AI Systems Engineering, 1(1), 1-8.
