@@ -1,1 +1,3 @@
 [1] Ganesan, S., & Arulkumaran, G. (2021). AI-driven software testing and development: Enhancing automation, efficiency, and reliability in agile and DevOps environments. International Journal of Multidisciplinary and Current Research, 9(2). https://ijmcr.com/index.php/ijmcr/article/view/209/196
+
+[2] Pandhare, H. V. (2025). Future of software test automation using ai/ml. International Journal Of Engineering And Computer Science, 13(05). https://www.researchgate.net/profile/Harshad-Vijay-Pandhare-2/publication/391806293_Future_of_Software_Test_Automation_Using_AIML/links/68277cda026fee1034f8a449/Future-of-Software-Test-Automation-Using-AI-ML.pdf
