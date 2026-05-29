@@ -17,3 +17,5 @@
 [9] Burte, S. (2025). AI-Powered Software Development Life Cycle: From Requirements to Maintenance. AI Systems Engineering, 1(1), 1-8.
 
 [10] Mayer, W., Stumptner, M., Wieland, D., & Wotawa, F. (2002, July). Can ai help to improve debugging substantially? debugging experiences with value-based models. In ECAI (pp. 417-421). https://d1wqtxts1xzle7.cloudfront.net/3458019/p0417-libre.pdf?1390832809=&response-content-disposition=inline%3B+filename%3DCan_ai_help_to_improve_debugging_substan.pdf&Expires=1780096074&Signature=fPh4Zy1gdV8aLkbOEtdW-kESyOB-A0-9PUcTsDbtIT1UeuSkZJjIkXqIRfeG4IgfBiSiI7abXujBF26FiHEBS0ic2LWBvFMROGN8Z7dLAQPp9yKZRnMD1FeT7RdCkWpiwRe2xkIpOGEVLIy5uqY9HH~s4VGO5ia6J-kIBHcrj00y3xI8f8~0CqLIQg1-62GaHqvfMwO5ztHdJd3b14~8IYszwYvq9ZGhvqfLUDYwSnOgLvexTo7h76x8TkvLiu--1CSlAE1xDTHRKEKzCcPSCz3HfhHxY~yRN~PyHwB24znFFJA7b1hAWixa7CzfRxcWQIwuA4Pv2-HojrfY2G0AkA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+[11] Rajamanickam, E., & Thrisha, N. (2026). AI-Powered Code Bug Detection and Fixing System. International Journal of Engineering & Extended Technologies Research (IJEETR), 8(2), 4671-4678.
