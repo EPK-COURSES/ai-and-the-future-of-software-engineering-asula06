@@ -87,3 +87,13 @@ The study highlights that AI-powered testing can automate repetitive tasks, impr
 To address these challenges, the article proposes several key strategies, including comprehensive training programs, strong data management practices, continuous improvement, strategic tool integration, and greater transparency in AI systems. The author emphasizes that organizations must create a collaborative culture where testers, developers, and data scientists work together to maximize the benefits of AI-driven testing.
 
 The article concludes that AI has the potential to transform software testing through autonomous test generation, self-healing frameworks, predictive analytics, and intelligent automation. Organizations that successfully address implementation challenges will be able to improve software quality, reduce testing effort, and achieve more reliable and efficient testing processes.
+
+### [8] The Role of Artificial Intelligence and Machine Learning in Software Testing
+
+This article examines how Artificial Intelligence (AI) and Machine Learning (ML) are transforming software testing by automating complex tasks and improving testing efficiency. The authors explain that traditional testing methods require significant manual effort, while AI and ML enable automated test case generation, test execution, defect detection, and result analysis. These technologies help reduce testing time, improve accuracy, and increase software quality.
+
+The study highlights that AI can analyze historical testing data to identify patterns and predict potential software failures. Machine Learning algorithms can generate new test cases, prioritize testing activities, and improve test coverage by identifying scenarios that human testers may overlook. The paper also discusses the use of Natural Language Processing (NLP), which can convert software requirements written in plain language into automated test cases.
+
+Several AI-powered testing tools are presented, including Eggplant AI, Test.ai, Selenium, Appvance, Applitools Eyes, Katalon Studio, and Tricentis Tosca. Case studies showed significant improvements, such as a 40% reduction in testing time, a 30% decrease in post-launch defects, and improved test coverage and software quality. These results demonstrate the practical benefits of integrating AI and ML into modern testing environments.
+
+The article concludes that AI and ML are becoming essential technologies in software testing because they increase efficiency, reduce costs, and enhance defect detection. However, challenges such as data quality, algorithm complexity, transparency, and ethical considerations must be addressed to fully realize the potential of AI-driven testing.
