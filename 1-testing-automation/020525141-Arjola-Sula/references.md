@@ -1,14 +1,1 @@
-### Software testing
-
-1. IBM -Software testing
-https://www.ibm.com/think/topics/software-testing
-
-### Bug Detection and Debugging
-
-2. Practical Logix - AI Enhancing Bug Detection
-https://www.practicallogix.com/ai-and-software-development-enhancing-bug-detection-and-resolution-efficiency
-
-### AI in CI/CD automation and AI risks
-
-3.GitLab - The Role of AI in DevOps
-https://about.gitlab.com/topics/devops/the-role-of-ai-in-devops
+[1] Ganesan, S., & Arulkumaran, G. (2021). AI-driven software testing and development: Enhancing automation, efficiency, and reliability in agile and DevOps environments. International Journal of Multidisciplinary and Current Research, 9(2). https://ijmcr.com/index.php/ijmcr/article/view/209/196
